@@ -1,0 +1,15 @@
+<html>
+<head>hello</head>
+<title>Hello,World!</title>
+<body>
+<p>This is a website created by Team Tejas</p>
+<!--write anything as inside <p> -->
+<style>
+body {
+background-color:red;
+}
+<!-- Here this code will change the background-color of the website to red as it 
+is assign as red, you can select any random color which you want -->
+</style>
+</body>
+</html>
